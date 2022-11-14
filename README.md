@@ -1,3 +1,3 @@
 ## Embedding Impact Analysis in Inductive Link Prediction
 
-Avaliable at /data is the dataset used in my thesis.<br>
+The dataset used in my thesis is at avaliable /data.<br>
